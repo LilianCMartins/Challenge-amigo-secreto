@@ -27,6 +27,10 @@ Validação de Dados: O sistema garante que o campo de texto não esteja vazio e
 
 ![image](https://github.com/user-attachments/assets/db26007f-acbe-4779-b5bc-9ac13cca5d30)
 
+## Para acessar o Challenge do Amigo Secreto:
+
+https://challenge-amigo-secreto-green-rho.vercel.app/
+
 
 #### Autora 
 
