@@ -9,9 +9,11 @@ A aplicação possui uma interface interativa, onde os usuários podem inserir o
 
 ## Funcionalidades:
 
-Adicionar Amigos: Insira os nomes dos amigos em um campo de texto e adicione-os à lista.
-Sortear Amigo Secreto: Clique no botão "Sortear Amigo" para escolher um nome aleatoriamente.
-Validações: O campo de nome não pode estar vazio, e o sorteio só pode ser feito se houver amigos na lista.
+__Adicionar Amigos:__ Insira os nomes dos amigos em um campo de texto e adicione-os à lista.
+
+__Sortear Amigo Secreto:__ Clique no botão "Sortear Amigo" para escolher um nome aleatoriamente.
+
+__Validações:__ O campo de nome não pode estar vazio, e o sorteio só pode ser feito se houver amigos na lista.
 
 ## Tecnologias Utilizadas:
 <img src = "assets/ícones-js-css-html.png">
@@ -19,9 +21,11 @@ Validações: O campo de nome não pode estar vazio, e o sorteio só pode ser fe
 
 ## Como Funciona:
 
-Adicionar Participante: O usuário insere um nome no campo de texto e clica em "Adicionar". O nome é adicionado à lista e exibido na tela.
-Sortear Amigo Secreto: O botão "Sortear Amigo" escolhe aleatoriamente um nome da lista e o exibe na tela. Caso não haja amigos na lista, um alerta é mostrado.
-Validação de Dados: O sistema garante que o campo de texto não esteja vazio e que a lista tenha pelo menos um amigo para realizar o sorteio.
+ __1. Adicionar Participante:__ O usuário insere um nome no campo de texto e clica em "Adicionar". O nome é adicionado à lista e exibido na tela.
+ 
+__2. Sortear Amigo Secreto:__ O botão "Sortear Amigo" escolhe aleatoriamente um nome da lista e o exibe na tela. Caso não haja amigos na lista, um alerta é mostrado.
+
+__3.Validação de Dados:__ O sistema garante que o campo de texto não esteja vazio e que a lista tenha pelo menos um amigo para realizar o sorteio.
 
 ## Tela do Jogo
 
